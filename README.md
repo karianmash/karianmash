@@ -22,13 +22,9 @@ I am a passionate software developer who always thinks of building:
 
 ## My Github Stats
 
-### Streaks
+### Streaks & Stats
 
-[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karianmash&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/karianmash)
-
-### Stats
-
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=karianmash&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&hide=contribs,prs&count_private=true&custom_title=My%20Github%20Stats)](https://github.com/karianmash)
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karianmash&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/karianmash) [![My Github Stats](https://github-readme-stats.vercel.app/api?username=karianmash&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&hide=contribs,prs&count_private=true&custom_title=My%20Github%20Stats)](https://github.com/karianmash)
 
 ### Graph
 
