@@ -44,3 +44,6 @@ I am a passionate software developer who always thinks of building:
 ### Graph
 
 [![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=karianmash&theme=github-dark&hide_border=true)](https://github.com/karianmash)
+
+### Top languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karianmash&theme=github_dark&hide_border=true)
