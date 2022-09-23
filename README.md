@@ -41,12 +41,14 @@ I am a passionate software developer who always thinks of building:
   </table>
 </center>
 
+### Top languages && Random Joke
+
 <center>
   <table style="border: none;">
     <thead>
       <tr>
         <th>Top languages</th>
-        <th>Joke</th>
+        <th>Random Joke</th>
       </tr>
     </thead>
     <tbody>
