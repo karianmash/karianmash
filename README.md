@@ -21,7 +21,7 @@ I am a passionate software developer who always thinks of building:
 
 ## My Github Stats
 
-### Streaks && Stats
+## Streaks && Stats
 
 <center>
   <table>
@@ -40,7 +40,7 @@ I am a passionate software developer who always thinks of building:
   </table>
 </center>
 
-### Top languages && Random Joke
+## Top languages && Random Joke
 
 <center>
   <table style="border: none;">
@@ -59,6 +59,6 @@ I am a passionate software developer who always thinks of building:
   </table>
 </center>
 
-### Graph
+## Graph
 
 [![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=karianmash&theme=github-dark&hide_border=true)](https://github.com/karianmash)
