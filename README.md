@@ -35,7 +35,24 @@ I am a passionate software developer who always thinks of building:
     <tbody>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=karianmash&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></td>
-        <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=karianmash&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&hide=contribs,prs&count_private=true&custom_title=My%20Github%20Stats" /></td>      
+        <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=karianmash&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&custom_title=My%20Github%20Stats" /></td>      
+    </tr>
+    </tbody>
+  </table>
+</center>
+
+<center>
+  <table style="border: none;">
+    <thead>
+      <tr>
+        <th>Top languages</th>
+        <th>Joke</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karianmash&theme=github_dark&hide_border=true"/></td>
+        <td valign="top"><img width="400px" src="https://readme-jokes.vercel.app/api?theme=gotham"</td>      
     </tr>
     </tbody>
   </table>
@@ -44,6 +61,3 @@ I am a passionate software developer who always thinks of building:
 ### Graph
 
 [![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=karianmash&theme=github-dark&hide_border=true)](https://github.com/karianmash)
-
-### Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karianmash&theme=github_dark&hide_border=true)
