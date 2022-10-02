@@ -1,4 +1,4 @@
-## Hi there, I'm Ian Macharia
+# Hi there, I'm Ian Macharia
 
 I am a passionate software developer who always thinks of building:
 - 📫 How to reach me: ... ianmachariak17@gmail.com
