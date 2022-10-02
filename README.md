@@ -1,5 +1,3 @@
-# Welcome to my Github profile 
-
 ## Hi there, I'm Ian Macharia
 
 I am a passionate software developer who always thinks of building:
