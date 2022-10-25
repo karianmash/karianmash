@@ -1,4 +1,4 @@
-# Hi there, I'm Ian Macharia
+# Hi there, I'm Ian Machari
 
 I am a passionate software developer who always thinks of building cool stuffs using code:
 - How to reach me: ianmachariak17@gmail.com
