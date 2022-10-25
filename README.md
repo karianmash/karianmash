@@ -1,4 +1,4 @@
-# Hi there, I'm Ian Macha
+# Hi there, I'm Ian Mach
 
 I am a passionate software developer who always thinks of building cool stuffs using code:
 - How to reach me: ianmachariak17@gmail.com
