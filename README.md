@@ -3,6 +3,7 @@
 I am a passionate software developer who always thinks of building cool software mostly for the web:
 - How to reach me: ianmachariak17@gmail.com
 - Pronouns: `He/Him`
+- Website: https://ianmacharia.vercel.app/
 
 ## Tools and Languages:
 
