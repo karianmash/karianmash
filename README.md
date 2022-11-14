@@ -66,3 +66,12 @@ I am a passionate software developer who always thinks of building cool software
 ## Graph
 
 [![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=karianmash&theme=github-dark&hide_border=true)](https://github.com/karianmash)
+
+## Reach Me At:
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ian Macharia on LinkedIn" title="Follow Ian Macharia on LinkedIn"/>](https://linkedin.com/in/ian-macharia-913a2917a/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Ian Macharia on Twitter" title="Follow Ian Macharia on Twitter"/>](https://twitter.com/karianmash)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Ian Macharia on Instagram" title="Follow Ian Macharia on Instagram"/>](https://instagram.com/karianmash)
+
+## Visitor Count
+<img src="https://profile-counter.glitch.me/karianmash/count.svg" />
