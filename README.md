@@ -65,7 +65,7 @@ I am a passionate software developer who always thinks of building cool software
 
 ## Graph
 
-[![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=karianmash&theme=github-dark&hide_border=true)](https://github.com/karianmash)
+[![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=karianmash&theme=github-dark&hide_border=true)](https://github.com/karianmash)
 
 ## Reach Me At:
 
