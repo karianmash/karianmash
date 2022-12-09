@@ -71,6 +71,8 @@ I am a passionate software developer who always think of building cool stuffs us
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ian Macharia on LinkedIn" title="Follow Ian Macharia on LinkedIn"/>](https://linkedin.com/in/ian-macharia-913a2917a/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Ian Macharia on Twitter" title="Follow Ian Macharia on Twitter"/>](https://twitter.com/karianmash)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="40em" align="center" alt="Follow Ian Macharia on Instagram" title="Follow Ian Macharia on Instagram"/>](https://www.instagram.com/karianmash/)
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" height="40em" align="center" alt="Follow Ian Macharia on Telegram" title="Follow Ian Macharia on Telegram"/>](https://t.me/karianmash)
 
 
 ## Visitor Count
