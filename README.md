@@ -1,6 +1,6 @@
 # Hi there, I'm Ian Macharia
 
-I am a passionate software developer who always thinks of building cool software mostly for the web:
+I am a passionate software developer who always think of building cool stuffs using software, mostly for the web:
 - How to reach me: ianmachariak17@gmail.com
 - Pronouns: `He/Him`
 - Website: https://ianmacharia.vercel.app/
