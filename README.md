@@ -34,14 +34,12 @@ I am a passionate software developer who always think of building cool stuffs us
       <tr>
         <th>Streaks</th>
         <th>Stats</th>
-        <th>Wakatime</th>
       </tr>
     </thead>
     <tbody>
     <tr>
         <td valign="top"><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=karianmash&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></td>
         <td valign="top"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=karianmash&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&custom_title=My%20Github%20Stats" /></td>
-      <td valign="top"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=karianmash&theme=gotham&layout=compact"/></td>
     </tr>
     </tbody>
   </table>
@@ -59,8 +57,27 @@ I am a passionate software developer who always think of building cool stuffs us
     </thead>
     <tbody>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=8&hide_border=true&title_color=38a5e1&icon_color=000000&text_color=ffffff&bg_color=0d1118"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=30&hide_border=true&title_color=38a5e1&icon_color=000000&text_color=ffffff&bg_color=0d1118"/></td>
         <td valign="top"><img width="400px" src="https://readme-jokes.vercel.app/api?theme=gotham"</td>      
+    </tr>
+    </tbody>
+  </table>
+</center>
+
+## Total Working Hours && Total Profile Visits
+
+<center>
+  <table style="border: none;">
+    <thead>
+      <tr>
+        <th>Wakatime</th>
+        <th>Visitor Count</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td valign="top"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@karianmash&theme=gotham&layout=compact&hide_border=true&v=2"/></td>
+        <td valign="top"><img src="https://profile-counter.glitch.me/karianmash/count.svg" /></td>      
     </tr>
     </tbody>
   </table>
@@ -76,7 +93,3 @@ I am a passionate software developer who always think of building cool stuffs us
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Ian Macharia on Twitter" title="Follow Ian Macharia on Twitter"/>](https://twitter.com/karianmash)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="40em" align="center" alt="Follow Ian Macharia on Instagram" title="Follow Ian Macharia on Instagram"/>](https://www.instagram.com/karianmash/)
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" height="40em" align="center" alt="Follow Ian Macharia on Telegram" title="Follow Ian Macharia on Telegram"/>](https://t.me/karianmash)
-
-
-## Visitor Count
-<img src="https://profile-counter.glitch.me/karianmash/count.svg" />
