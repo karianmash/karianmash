@@ -57,7 +57,7 @@ I am a passionate software developer who always think of building cool stuffs us
     </thead>
     <tbody>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=30&hide_border=true&title_color=38a5e1&icon_color=000000&text_color=ffffff&bg_color=0d1118"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=50&hide_border=true&title_color=38a5e1&icon_color=000000&text_color=ffffff&bg_color=0d1118"/></td>
         <td valign="top"><img width="400px" src="https://readme-jokes.vercel.app/api?theme=gotham"</td>      
     </tr>
     </tbody>
