@@ -34,12 +34,14 @@ I am a passionate software developer who always think of building cool stuffs us
       <tr>
         <th>Streaks</th>
         <th>Stats</th>
+        <th>Wakatime</th>
       </tr>
     </thead>
     <tbody>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=karianmash&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></td>
-        <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=karianmash&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&custom_title=My%20Github%20Stats" /></td>      
+        <td valign="top"><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=karianmash&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></td>
+        <td valign="top"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=karianmash&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&custom_title=My%20Github%20Stats" /></td>
+      <td valign="top"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=karianmash&theme=gotham&layout=compact"/></td>
     </tr>
     </tbody>
   </table>
