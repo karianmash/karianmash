@@ -45,7 +45,7 @@ I am a passionate software developer who always think of building cool stuffs us
   </table>
 </center>
 
-## Top languages && Random Joke
+## Top languages && A Random Joke
 
 <center>
   <table style="border: none;">
@@ -63,6 +63,20 @@ I am a passionate software developer who always think of building cool stuffs us
     </tbody>
   </table>
 </center>
+
+## 📌 Pinned Repositories
+
+<center>
+  <table style="border: none;">
+    <tr>
+        <td valign="top">
+          <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a></td>
+    </tr>
+  </table>
+</center>
+
 
 ## Total Working Hours && Total Profile Visits
 
