@@ -5,7 +5,7 @@ I am a passionate software developer who always think of building cool stuffs us
 - Pronouns: `He/Him`
 - Website: https://ianmacharia.vercel.app/
 
-## Tools and Languages:
+## Development Tools (Skills):
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
