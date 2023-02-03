@@ -8,6 +8,8 @@ I am a passionate fullstack software developer who always think of building cool
 - Pronouns: `He/Him`
 - Website: [Check out my portfolio.](https://ianmacharia.vercel.app/)
 
+<hr/>
+
 ## Development Tools (Skills):
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,6 +28,8 @@ I am a passionate fullstack software developer who always think of building cool
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+<hr/>
 
 ## My Github Statistics
 
@@ -47,6 +51,7 @@ I am a passionate fullstack software developer who always think of building cool
     </tbody>
   </table>
 </center>
+<hr/>
 
 ## Top languages && A Random Joke
 
@@ -66,20 +71,14 @@ I am a passionate fullstack software developer who always think of building cool
     </tbody>
   </table>
 </center>
+<hr/>
 
 ## 📌 Pinned Repository
 
-<center>
-  <table style="border: none;">
-    <tr>
-        <td valign="top">
-          <a href="https://github.com/karianmash/students-project-MIS">
-            <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=students-project-MIS&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-          </a>
-        </td>
-    </tr>
-  </table>
-</center>
+<a href="https://github.com/karianmash/students-project-MIS">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=students-project-MIS&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<hr/>
 
 ## Total Working Hours && Total Profile Visits
 
@@ -99,10 +98,13 @@ I am a passionate fullstack software developer who always think of building cool
     </tbody>
   </table>
 </center>
+<hr/>
 
 ## Graph
 
 [![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=karianmash&theme=github-compact&hide_border=true)](https://github.com/karianmash)
+
+<hr/>
 
 ## Reach Me At:
 
