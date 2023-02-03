@@ -1,9 +1,12 @@
+[![Braydon's GitHub Banner](edited.jpeg)](https://ianmacharia.vercel.app/)
+
 # Hi there, I'm Ian Macharia
 
-I am a passionate software developer who always think of building cool stuffs using software, mostly for the web:
+I am a passionate fullstack software developer who always think of building cool stuffs using code, mostly for the web, but also have a curious mind to explore other software development domains like mobile development, machine learning, cloud, etc occasionally. I have a good experience in web development using PHP (Vanilla, Laravel) and JavaScript (Node.js, React.js, Angular, TypeScript) and always ready for a new challenge. Feel free to contact me for a paid project, a collaboration, a contract, a permanent job or just to say hi:
+
 - How to reach me: ianmachariak17@gmail.com
 - Pronouns: `He/Him`
-- Website: https://ianmacharia.vercel.app/
+- Website: [Check out my portfolio.](https://ianmacharia.vercel.app/)
 
 ## Development Tools (Skills):
 
@@ -24,7 +27,7 @@ I am a passionate software developer who always think of building cool stuffs us
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-## My Github Stats
+## My Github Statistics
 
 ## Streaks && Stats
 
@@ -64,19 +67,19 @@ I am a passionate software developer who always think of building cool stuffs us
   </table>
 </center>
 
-## 📌 Pinned Repositories
+## 📌 Pinned Repository
 
 <center>
   <table style="border: none;">
     <tr>
         <td valign="top">
-          <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a></td>
+          <a href="https://github.com/karianmash/students-project-MIS">
+            <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=students-project-MIS&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+          </a>
+        </td>
     </tr>
   </table>
 </center>
-
 
 ## Total Working Hours && Total Profile Visits
 
