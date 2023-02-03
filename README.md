@@ -1,6 +1,6 @@
 [![Braydon's GitHub Banner](edited.jpeg)](https://ianmacharia.vercel.app/)
 
-# Hi there, I'm Ian Macharia
+# Hi there 👋
 
 I am a passionate fullstack software developer who always think of building cool stuffs using code, mostly for the web, but also have a curious mind to explore other software development domains like mobile development, machine learning, cloud, etc occasionally. I have a good experience in web development using PHP (Vanilla, Laravel) and JavaScript (Node.js, React.js, Angular, TypeScript) and always ready for a new challenge. Feel free to contact me for a paid project, a collaboration, a contract, a permanent job or just to say hi:
 
