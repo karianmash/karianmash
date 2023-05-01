@@ -11,10 +11,10 @@ As a strong communicator and collaborator, I believe in the importance of workin
 - How to reach me: ianmachariak17@gmail.com
 - Pronouns: `He/Him`
 - Website: [Check out my portfolio.](https://ianmacharia.vercel.app/)
-
+<br/><br/>
 <hr/>
 
-## Development Tools (Skills):
+# 💻 Development Tools (Skills):
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,10 +32,10 @@ As a strong communicator and collaborator, I believe in the importance of workin
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
+<br/><br/>
 <hr/>
 
-## My Github Statistics
+# 📊 My Github Statistics
 
 ## Streaks && Stats
 
@@ -55,9 +55,10 @@ As a strong communicator and collaborator, I believe in the importance of workin
     </tbody>
   </table>
 </center>
+<br/><br/>
 <hr/>
 
-## Top languages && A Random Joke
+# 🌐 Top languages && 😂 A Random Joke
 
 <center>
   <table style="border: none;">
@@ -70,14 +71,15 @@ As a strong communicator and collaborator, I believe in the importance of workin
     <tbody>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=50&hide_border=true&title_color=38a5e1&icon_color=000000&text_color=ffffff&bg_color=0d1118"/></td>
-        <td valign="top"><img width="400px" src="https://readme-jokes.vercel.app/api?theme=gotham"</td>      
+        <td valign="top"><img width="400px" src="https://readme-jokes.vercel.app/api?theme=gotham"></td>      
     </tr>
     </tbody>
   </table>
 </center>
+<br/><br/>
 <hr/>
 
-## 📌 Pinned Repository
+# 📌 Pinned Repository
 
 <a href="https://github.com/karianmash/fundi-mtaa">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=fundi-mtaa&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -85,9 +87,10 @@ As a strong communicator and collaborator, I believe in the importance of workin
 <a href="https://github.com/karianmash/jitu-sendit">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=jitu-sendit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+<br/><br/>
 <hr/>
 
-## Total Working Hours && Total Profile Visits
+# 💼 Total Working Hours && 👀 Total Profile Visits
 
 <center>
   <table style="border: none;">
@@ -105,15 +108,16 @@ As a strong communicator and collaborator, I believe in the importance of workin
     </tbody>
   </table>
 </center>
+<br/><br/>
 <hr/>
 
-## Graph
+# 📈 Graph
 
 [![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=karianmash&theme=github-compact&hide_border=true)](https://github.com/karianmash)
-
+<br/><br/>
 <hr/>
 
-## Reach Me At:
+# ✉️ Reach Me At:
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ian Macharia on LinkedIn" title="Follow Ian Macharia on LinkedIn"/>](https://linkedin.com/in/ian-macharia-913a2917a/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Ian Macharia on Twitter" title="Follow Ian Macharia on Twitter"/>](https://twitter.com/karianmash)
