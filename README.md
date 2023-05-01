@@ -2,8 +2,6 @@
 
 # Hi there 👋
 
-<!-- I am a passionate fullstack software developer who always think of building cool stuffs using code, mostly for the web, but also have a curious mind to explore other software development domains like mobile development, machine learning, cloud, etc occasionally. I have a good experience in web development using PHP (Vanilla, Laravel) and JavaScript (Node.js, React.js, Angular, TypeScript) and always ready for a new challenge. Feel free to contact me for a paid project, a collaboration, a contract, a permanent job or just to say hi: -->
-
 I am a full-stack web developer with over 2 years of experience in building scalable web applications using Angular, React, Node.js, PHP Laravel, Linux, MongoDB, and MySQL. I specialize in RESTful API development, database design, and server administration. In addition, I am a quick learner with a strong ability to work well under pressure and adapt to changing project requirements.
 
 My passion for continuous learning and growth drives me to write clean, efficient, and well-documented code that meets industry standards. I enjoy collaborating with other team members and mentoring junior developers, and I am dedicated to fostering a culture of continuous learning and growth.
@@ -81,8 +79,14 @@ As a strong communicator and collaborator, I believe in the importance of workin
 
 ## 📌 Pinned Repository
 
+<a href="https://github.com/karianmash/fundi-mtaa">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=fundi-mtaa&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 <a href="https://github.com/karianmash/students-project-MIS">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=students-project-MIS&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/karianmash/jitu-sendit">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=jitu-sendit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <hr/>
 
