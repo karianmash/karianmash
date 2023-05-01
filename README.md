@@ -79,8 +79,8 @@ As a strong communicator and collaborator, I believe in the importance of workin
 
 ## 📌 Pinned Repository
 
-<a href="https://github.com/karianmash/karian-school">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=karian-school&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/karianmash/fundi-mtaa">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=fundi-mtaa&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/karianmash/jitu-sendit">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=jitu-sendit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
