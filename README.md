@@ -1,8 +1,14 @@
-[![Braydon's GitHub Banner](edited.jpeg)](https://ianmacharia.vercel.app/)
+[![Braydon's GitHub Banner](code.jpeg)](https://ianmacharia.vercel.app/)
 
 # Hi there 👋
 
-I am a passionate fullstack software developer who always think of building cool stuffs using code, mostly for the web, but also have a curious mind to explore other software development domains like mobile development, machine learning, cloud, etc occasionally. I have a good experience in web development using PHP (Vanilla, Laravel) and JavaScript (Node.js, React.js, Angular, TypeScript) and always ready for a new challenge. Feel free to contact me for a paid project, a collaboration, a contract, a permanent job or just to say hi:
+<!-- I am a passionate fullstack software developer who always think of building cool stuffs using code, mostly for the web, but also have a curious mind to explore other software development domains like mobile development, machine learning, cloud, etc occasionally. I have a good experience in web development using PHP (Vanilla, Laravel) and JavaScript (Node.js, React.js, Angular, TypeScript) and always ready for a new challenge. Feel free to contact me for a paid project, a collaboration, a contract, a permanent job or just to say hi: -->
+
+I am a full-stack web developer with over 2 years of experience in building scalable web applications using Angular, React, Node.js, PHP Laravel, Linux, MongoDB, and MySQL. I specialize in RESTful API development, database design, and server administration. In addition, I am a quick learner with a strong ability to work well under pressure and adapt to changing project requirements.
+
+My passion for continuous learning and growth drives me to write clean, efficient, and well-documented code that meets industry standards. I enjoy collaborating with other team members and mentoring junior developers, and I am dedicated to fostering a culture of continuous learning and growth.
+
+As a strong communicator and collaborator, I believe in the importance of working closely with other professionals to achieve shared goals. Overall, I am excited to leverage my skills and experience to contribute to your team's success and further develop my career as a Full-stack Web Developer.
 
 - How to reach me: ianmachariak17@gmail.com
 - Pronouns: `He/Him`
