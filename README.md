@@ -90,7 +90,7 @@ As a strong communicator and collaborator, I believe in the importance of workin
 <br/><br/>
 <hr/>
 
-# 💼 Total Working Hours && 👀 Total Profile Visits
+# 💼 Total Working Hours && 👀 Profile Visits
 
 <center>
   <table style="border: none;">
@@ -111,7 +111,7 @@ As a strong communicator and collaborator, I believe in the importance of workin
 <br/><br/>
 <hr/>
 
-# 📈 Graph
+# 📈 Graph Overview
 
 [![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=karianmash&theme=github-compact&hide_border=true)](https://github.com/karianmash)
 <br/><br/>
