@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Ian Macharia
 
-I am a full-stack web developer with over 2 years of experience in building scalable web applications using Angular, React, Node.js, PHP Laravel, Linux, MongoDB, and MySQL. I specialize in RESTful API development, database design, and server administration. In addition, I am a quick learner with a strong ability to work well under pressure and adapt to changing project requirements.
+I am a full-stack web developer with over 2 years of experience in building scalable web applications using Angular, React.js, Node.js, PHP Laravel, Linux, MongoDB, and MySQL. I specialize in RESTful API development, database design, and server administration. In addition, I am a quick learner with a strong ability to work well under pressure and adapt to changing project requirements.
 
 My passion for continuous learning and growth drives me to write clean, efficient, and well-documented code that meets industry standards. I enjoy collaborating with other team members and mentoring junior developers, and I am dedicated to fostering a culture of continuous learning and growth.
 
