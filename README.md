@@ -10,7 +10,7 @@ As a strong communicator and collaborator, I believe in the importance of workin
 
 - How to reach me: ianmachariak17@gmail.com
 - Pronouns: `He/Him`
-- Website: [Check out my portfolio.](https://ianmacharia.vercel.app/)
+- Website: [Check out my portfolio.]([https://ianmacharia.vercel.app/](https://portfolio-karianmash.vercel.app/))
 <br/><br/>
 <hr/>
 
