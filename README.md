@@ -1,6 +1,6 @@
 [![Braydon's GitHub Banner](code.jpeg)](https://ianmacharia.vercel.app/)
 
-# Hi there 👋, I'm Ian Macharia 
+# Hi there 👋, I'm Ian Macharia
 
 I am a full-stack web developer with over 2 years of experience in building scalable web applications using Angular, React.js, Node.js, PHP Laravel, Linux, MongoDB, and MySQL. I specialize in RESTful API development, database design, and server administration. In addition, I am a quick learner with a strong ability to work well under pressure and adapt to changing project requirements.
 
