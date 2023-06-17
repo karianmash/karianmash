@@ -8,7 +8,7 @@ My passion for continuous learning and growth drives me to write clean, efficien
 
 As a strong communicator and collaborator, I believe in the importance of working closely with other professionals to achieve shared goals. Overall, I am excited to leverage my skills and experience to contribute to your team's success and further develop my career as a Full-stack Web Developer.
 
-- How to reach me: ianmachariak17@gmail.com
+- How you can reach me: ianmachariak17@gmail.com
 - Pronouns: `He/Him`
 - Website: [Checkout my website 😍](https://portfolio-karianmash.vercel.app/)
 <br/><br/>
