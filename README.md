@@ -8,13 +8,14 @@ My passion for continuous learning and growth drives me to write clean, efficien
 
 As a strong communicator and collaborator, I believe in the importance of working closely with other professionals to achieve shared goals. Overall, I am excited to leverage my skills and experience to contribute to your team's success and further develop my career as a Full-stack Web Developer.
 
-- How you can reach me: ianmachariak17@gmail.com
+- How you can reach me: <ianmachariak17@gmail.com>
 - Pronouns: `He/Him`
 - Website: [Checkout my website 😍](https://portfolio-karianmash.vercel.app/)
 <br/><br/>
+
 <hr/>
 
-# 💻 Development Tools (Skills):
+# 💻 Development Tools (Skills)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -82,7 +83,7 @@ As a strong communicator and collaborator, I believe in the importance of workin
     <tbody>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=50&hide_border=true&title_color=38a5e1&icon_color=000000&text_color=ffffff&bg_color=0d1118"/></td>
-        <td valign="top"><img width="400px" src="https://readme-jokes.vercel.app/api?theme=gotham"></td>      
+        <td valign="top"><img width="400px" src="https://readme-jokes.vercel.app/api?theme=gotham"></td>
     </tr>
     </tbody>
   </table>
@@ -90,14 +91,14 @@ As a strong communicator and collaborator, I believe in the importance of workin
 <br/><br/>
 <hr/>
 
-# 📌 Pinned Repository
+# 📌 Pinned Repository && 📰 Daily.dev Stats
 
 <center>
   <table style="border: none;">
     <thead>
       <tr>
-        <th>Top languages</th>
-        <th>Random Joke</th>
+        <th>Pinned Repository</th>
+        <th>Daily.dev Stats</th>
       </tr>
     </thead>
     <tbody>
@@ -105,7 +106,7 @@ As a strong communicator and collaborator, I believe in the importance of workin
         <td valign="top"><a href="https://github.com/karianmash/jitu-sendit">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=jitu-sendit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
-        <td><a href="https://app.daily.dev/karianmash"><img src="https://api.daily.dev/devcards/f7549812c0934242876c2d398f9dd633.png?r=m2k" width="400" alt="Ian Macharia's Dev Card"/></a></td>      
+        <td><a href="https://app.daily.dev/karianmash"><img src="https://api.daily.dev/devcards/f7549812c0934242876c2d398f9dd633.png?r=m2k" width="400" alt="Ian Macharia's Dev Card"/></a></td>
     </tr>
     </tbody>
   </table>
@@ -126,7 +127,7 @@ As a strong communicator and collaborator, I believe in the importance of workin
     <tbody>
     <tr>
         <td valign="top"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=karianmash&theme=gotham&layout=compact&hide_border=true"/></td>
-        <td valign="top"><img src="https://profile-counter.glitch.me/karianmash/count.svg" /></td>      
+        <td valign="top"><img src="https://profile-counter.glitch.me/karianmash/count.svg" /></td>
     </tr>
     </tbody>
   </table>
@@ -140,7 +141,7 @@ As a strong communicator and collaborator, I believe in the importance of workin
 <br/><br/>
 <hr/>
 
-# ✉️ Reach Me At:
+# ✉️ Reach Me At
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ian Macharia on LinkedIn" title="Follow Ian Macharia on LinkedIn"/>](https://linkedin.com/in/ian-macharia-karimi/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Ian Macharia on Twitter" title="Follow Ian Macharia on Twitter"/>](https://twitter.com/karianmash)
