@@ -92,12 +92,24 @@ As a strong communicator and collaborator, I believe in the importance of workin
 
 # 📌 Pinned Repository
 
-<a href="https://github.com/karianmash/fundi-mtaa">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=fundi-mtaa&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/karianmash/jitu-sendit">
+<center>
+  <table style="border: none;">
+    <thead>
+      <tr>
+        <th>Top languages</th>
+        <th>Random Joke</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td valign="top"><a href="https://github.com/karianmash/jitu-sendit">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=jitu-sendit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a></td>
+        <td><a href="https://app.daily.dev/karianmash"><img src="https://api.daily.dev/devcards/f7549812c0934242876c2d398f9dd633.png?r=m2k" width="400" alt="Ian Macharia's Dev Card"/></a></td>      
+    </tr>
+    </tbody>
+  </table>
+</center>
 <br/><br/>
 <hr/>
 
