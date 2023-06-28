@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](code.jpeg)](https://ianmacharia.vercel.app/)
+[![Ian's GitHub Banner](profile-banner.png)](https://portfolio-karianmash.vercel.app/)
 
 # Hi there 👋, I'm Ian Macharia
 
