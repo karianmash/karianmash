@@ -7,10 +7,6 @@ I am a full-stack web developer with over 2 years of experience in building scal
 My passion for continuous learning and growth drives me to write clean, efficient, and well-documented code that meets industry standards. I enjoy collaborating with other team members and mentoring junior developers, and I am dedicated to fostering a culture of continuous learning and growth.
 
 As a strong communicator and collaborator, I believe in the importance of working closely with other professionals to achieve shared goals. Overall, I am excited to leverage my skills and experience to contribute to your team's success and further develop my career as a Full-stack Web Developer.
-
-- How you can reach me: <ianmachariak17@gmail.com>
-- Pronouns: `He/Him`
-- Website: [Checkout my website 😍](https://portfolio-karianmash.vercel.app/)
 <br/><br/>
 
 <hr/>
