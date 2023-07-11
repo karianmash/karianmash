@@ -9,7 +9,7 @@ My passion for continuous learning and growth drives me to write clean, efficien
 As a strong communicator and collaborator, I believe in the importance of working closely with other professionals to achieve shared goals. Overall, I am excited to leverage my skills and experience to contribute to your team's success and further develop my career as a Full-stack Web Developer.
 <br/><br/>
 
-<hr/>
+<hr/> 
 
 # 💻 Development Tools (Skills)
 
