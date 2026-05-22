@@ -61,18 +61,18 @@ Previously a **Tech Lead** at **Pesira Technologies**, I specialize in designing
     <td width="50%" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=karianmash&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak Stats" />
     </td>
-    <td width="50%" align="center">
+    <!-- <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=karianmash&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&custom_title=My%20Github%20Stats" width="100%" alt="GitHub Stats" />
-    </td>
+    </td> -->
   </tr>
-  <tr>
+  <!-- <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=10&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=0d1117" width="100%" alt="Top Languages" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=karianmash&theme=github_dark&layout=compact&hide_border=true" width="100%" alt="Wakatime Stats" />
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 <br/>
