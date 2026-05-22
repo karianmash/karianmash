@@ -1,157 +1,116 @@
-[![Ian's GitHub Banner](profile-banner.png)](https://portfolio-karianmash.vercel.app/)
-
 # Hi there 👋, I'm Ian Macharia
 
-I am a full-stack web developer with over 2 years of experience in building scalable web applications using Angular, React.js, Node.js, PHP Laravel, Linux, MongoDB, and MySQL. I specialize in RESTful API development, database design, and server administration. In addition, I am a quick learner with a strong ability to work well under pressure and adapt to changing project requirements.
+[![Ian's Portfolio](ian-cover-image.png)](https://ianmacharia.vercel.app)
 
-My passion for continuous learning and growth drives me to write clean, efficient, and well-documented code that meets industry standards. I enjoy collaborating with other team members and mentoring junior developers, and I am dedicated to fostering a culture of continuous learning and growth.
+I am a **Senior Software Engineer & Full-stack Architect** with **5+ years of experience** building high-performance, enterprise-grade applications. Currently, at **Griffin Global Technologies**, I engineer robust full-stack solutions using **ASP.NET Core** and **React.js**, collaborating with distributed teams across the USA and East Africa. 
 
-As a strong communicator and collaborator, I believe in the importance of working closely with other professionals to achieve shared goals. Overall, I am excited to leverage my skills and experience to contribute to your team's success and further develop my career as a Full-stack Web Developer.
-<br/><br/>
+Previously a **Tech Lead** at **Pesira Technologies**, I specialize in designing scalable cloud-native architectures (AWS/GCP), optimizing database performance, and driving developer experience (DevEx) through automation.
 
-<hr/>
+- 🚀 Currently architecting systems using: **ASP.NET Core, React/Next.js, PostgreSQL, and AWS/GCP**
+- 🧠 Strong focus on: **System Design, Database Optimization, and CI/CD Automation**
+- 💬 Ask me about: **EF Core optimization, cloud-native scalability, and engineering team leadership**
+- 📝 I write articles about backend engineering, .NET, and system design on my [Blog](https://ianmacharia.vercel.app/blog)
 
-# 💻 Development Tools (Skills)
+<br/>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🛠️ Tech Stack & Ecosystem
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Neovim](https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Contabo Cloud](https://img.shields.io/badge/Contabo%20Cloud-%23FF9933.svg?style=for-the-badge&logo=contabo&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PHPStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-<br/><br/>
-<hr/>
 
-# 📊 My Github Statistics
+### ⚙️ Backend & APIs
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## Streaks && Stats
+### 🗄️ Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<center>
-  <table>
-    <thead>
-      <tr>
-        <th>Streaks</th>
-        <th>Stats</th>
-      </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td valign="top"><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=karianmash&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></td>
-        <td valign="top"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=karianmash&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&custom_title=My%20Github%20Stats" /></td>
-    </tr>
-    </tbody>
-  </table>
-</center>
-<br/><br/>
-<hr/>
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-# 🌐 Top languages && 😂 A Random Joke
+<br/>
 
-<center>
-  <table style="border: none;">
-    <thead>
-      <tr>
-        <th>Top languages</th>
-        <th>Random Joke</th>
-      </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=50&hide_border=true&title_color=38a5e1&icon_color=000000&text_color=ffffff&bg_color=0d1118"/></td>
-        <td valign="top"><img width="400px" src="https://readme-jokes.vercel.app/api?theme=gotham"></td>
-    </tr>
-    </tbody>
-  </table>
-</center>
-<br/><br/>
-<hr/>
+---
 
-# 📌 Pinned Repository && 📰 Daily.dev Stats
+## 📊 My GitHub Statistics
 
-<center>
-  <table style="border: none;">
-    <thead>
-      <tr>
-        <th>Pinned Repository</th>
-        <th>Daily.dev Stats</th>
-      </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td valign="top"><a href="https://github.com/karianmash/jitu-sendit">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=karianmash&repo=jitu-sendit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a></td>
-        <td><a href="https://app.daily.dev/karianmash"><img src="https://api.daily.dev/devcards/f7549812c0934242876c2d398f9dd633.png?r=m2k" width="400" alt="Ian Macharia's Dev Card"/></a></td>
-    </tr>
-    </tbody>
-  </table>
-</center>
-<br/><br/>
-<hr/>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=karianmash&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=karianmash&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&custom_title=My%20Github%20Stats" width="100%" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=10&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=0d1117" width="100%" alt="Top Languages" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=karianmash&theme=github_dark&layout=compact&hide_border=true" width="100%" alt="Wakatime Stats" />
+    </td>
+  </tr>
+</table>
 
-# 💼 Total Working Hours && 👀 Profile Visits
+<br/>
 
-<center>
-  <table style="border: none;">
-    <thead>
-      <tr>
-        <th>Wakatime</th>
-        <th>Visitor Count</th>
-      </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td valign="top"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=karianmash&theme=gotham&layout=compact&hide_border=true"/></td>
-        <td valign="top"><img src="https://profile-counter.glitch.me/karianmash/count.svg" /></td>
-    </tr>
-    </tbody>
-  </table>
-</center>
-<br/><br/>
-<hr/>
+---
 
-# 📈 Graph Overview
+## 📈 Activity & Community
 
-[![My Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karianmash&theme=github-compact&hide_border=true)](https://github.com/karianmash)
-<br/><br/>
-<hr/>
+<p align="center">
+  <a href="https://app.daily.dev/karianmash">
+    <img src="https://api.daily.dev/devcards/f7549812c0934242876c2d398f9dd633.png?r=m2k" width="400" alt="Ian Macharia's Dev Card" />
+  </a>
+</p>
 
-# ✉️ Reach Me At
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karianmash&theme=github-compact&hide_border=true" width="100%" alt="My GitHub Activity Graph" />
+</p>
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ian Macharia on LinkedIn" title="Follow Ian Macharia on LinkedIn"/>](https://linkedin.com/in/ian-macharia-karimi/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Ian Macharia on Twitter" title="Follow Ian Macharia on Twitter"/>](https://twitter.com/karianmash)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="40em" align="center" alt="Follow Ian Macharia on Instagram" title="Follow Ian Macharia on Instagram"/>](https://www.instagram.com/karianmash/)
-[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" height="40em" align="center" alt="Follow Ian Macharia on Telegram" title="Follow Ian Macharia on Telegram"/>](https://t.me/karianmash)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="40em" align="center" alt="Open WhatsApp Chat" title="Open WhatsApp Chat"/>](https://wa.me/254798431498)
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" height="40em" align="center" alt="Follow Ian Macharia on Facebook" title="Follow Ian Macharia on Facebook"/>](https://www.facebook.com/karianmashke/)
-[<img src="https://portfolio-karianmash.vercel.app/assets/img/favicon.png" height="40em" align="center" alt="Visit my website" title="Visit my website"/>](https://portfolio-karianmash.vercel.app/)
+<br/>
+
+---
+
+## ✉️ Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/ian-macharia-karimi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/karianmash" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://t.me/karianmash" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://wa.me/254798431498" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://ianmacharia.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
