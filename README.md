@@ -142,7 +142,6 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
     <td>
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
       <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
       <img src="https://img.shields.io/badge/RAG_Pipelines-00E5FF?style=for-the-badge&logo=diagram-next&logoColor=black" alt="RAG" />
       <img src="https://img.shields.io/badge/Vector_DBs-0052CC?style=for-the-badge&logo=database&logoColor=white" alt="Vector DBs" />
       <img src="https://img.shields.io/badge/AI_Agents-6366F1?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents" />
@@ -195,15 +194,15 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=karianmash&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak Stats" />
+      <img src="https://streak-stats.demolab.com/?user=karianmash&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=karianmash&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&title_color=58a6ff&icon_color=58a6ff" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karianmash&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&title_color=58a6ff&icon_color=58a6ff" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=58a6ff" width="60%" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=58a6ff" width="60%" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -219,7 +218,7 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karianmash&theme=github-compact&hide_border=true" width="100%" alt="My GitHub Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=karianmash&theme=github-compact&hide_border=true" width="100%" alt="My GitHub Activity Graph" />
 </p>
 
 ---
