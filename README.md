@@ -201,9 +201,10 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" width="60%" alt="Top Languages" />
+    <td width="50%" align="left">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" width="100%" alt="Top Languages" />
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
