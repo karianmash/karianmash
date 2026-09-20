@@ -29,16 +29,16 @@
 
 ### 👨‍💻 About Me
 
-I am a **Senior Software Engineer & Full-stack Architect** with **5+ years of experience** building high-performance, enterprise-grade applications. Currently at **Griffin Global Technologies**, I drive the full-stack development of complex systems using **ASP.NET Core** and **React.js**, collaborating with distributed engineering teams across Kenya, Ethiopia, and the USA.
+I am a **Senior Software Engineer & Full-stack Architect** with **5+ years of experience** building high-performance, enterprise-grade applications. Currently at **Griffin Global Technologies**, I drive the full-stack development of complex systems using **ASP.NET Core**, **React.js** / **Next.js**, **MSSQL / PostgreSQL**, `cloud-native architectures` (**AWS** & **Microsoft Azure**) and collaborate with distributed engineering teams across Kenya, Ethiopia, and the USA.
 
-Previously a **Tech Lead** at **Pesira Technologies**, I specialize in designing scalable cloud-native architectures (AWS & GCP), optimizing database performance, and driving developer experience (DevEx) through automation and CI/CD pipelines.
+Previously a **Tech Lead** at **Pesira Technologies Limited**, I specialized in designing scalable software solutions using **Spring Boot**, **React.js** / **Next.js**, **PostgreSQL**, and **GCP**, optimizing database performance, and driving developer experience (DevEx) through automation and CI/CD pipelines.
 
 Beyond traditional full-stack engineering, I am deeply focused on the intersection of **Software Engineering and Artificial Intelligence**—integrating LLMs, building autonomous AI agents, and designing production-ready RAG (Retrieval-Augmented Generation) pipelines.
 
 - 🚀 **Currently Architecting:** Full-stack enterprise applications using **ASP.NET Core, React.js / Next.js, PostgreSQL / MSSQL, and AWS/GCP/Cloudflare**.
 - 🤖 **AI & Agentic Systems:** LLM integration, autonomous agents, RAG workflows, and vector search embeddings.
 - 🧠 **Architecture & Optimization:** Complex relational schema design, EF Core query tuning, caching strategies with Redis, and microservices.
-- 💬 **Ask Me About:** .NET performance tuning, Next.js / TanStack Start architecture, database keyset pagination, and engineering team leadership.
+- 💬 **Ask Me About:** ASP.NET Core, Next.js / TanStack Start architecture, database keyset pagination, and engineering team leadership.
 - 📝 **Writing & Insights:** I write in-depth technical guides on backend engineering, system design, and modern web frameworks on my **[Blog](https://ianmacharia.dev/blog)**.
 
 ---
