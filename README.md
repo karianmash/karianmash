@@ -206,7 +206,7 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
 
 <p align="center">
   <a href="https://github.com/karianmash">
-    <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Ian Macharia's 3D Contribution Calendar" />
+    <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Ian Macharia's 3D Contribution Calendar" />
   </a>
 </p>
 
