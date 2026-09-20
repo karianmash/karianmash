@@ -205,26 +205,6 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
 
 ---
 
-### ✉️ Let's Connect!
-
-<p align="center">
-  <a href="https://ianmacharia.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/ian-macharia-karimi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/karianmash" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://wa.me/254798431498" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:ianmachariak17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 <p align="center">
   <sub>Designed & Developed with ❤️ by <a href="https://ianmacharia.dev/">Ian Macharia</a></sub>
 </p>
