@@ -100,11 +100,9 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
 
 ### 🛠️ Tech Stack & Ecosystem
 
-<table width="100%">
+<table>
   <tr>
-    <th align="left">💻 Frontend & Web</th>
-  </tr>
-  <tr>
+    <td width="20%"><b>Frontend & Web</b></td>
     <td>
       <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -119,9 +117,7 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
     </td>
   </tr>
   <tr>
-    <th align="left">⚙️ Backend & APIs</th>
-  </tr>
-  <tr>
+    <td width="20%"><b>Backend & APIs</b></td>
     <td>
       <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -136,9 +132,7 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
     </td>
   </tr>
   <tr>
-    <th align="left">🤖 AI & LLMs</th>
-  </tr>
-  <tr>
+    <td width="20%"><b>AI & LLMs</b></td>
     <td>
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
       <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
@@ -148,9 +142,7 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
     </td>
   </tr>
   <tr>
-    <th align="left">🗄️ Databases & Caching</th>
-  </tr>
-  <tr>
+    <td width="20%"><b>Databases & Caching</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
@@ -160,9 +152,7 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
     </td>
   </tr>
   <tr>
-    <th align="left">☁️ Cloud, DevOps & Tools</th>
-  </tr>
-  <tr>
+    <td width="20%"><b>Cloud, DevOps & Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
