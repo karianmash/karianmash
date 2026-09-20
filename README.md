@@ -35,12 +35,6 @@ Previously a **Tech Lead** at **Pesira Technologies Limited**, I specialized in 
 
 Beyond traditional full-stack engineering, I am deeply focused on the intersection of **Software Engineering and Artificial Intelligence**—integrating LLMs, building autonomous AI agents, and designing production-ready RAG (Retrieval-Augmented Generation) pipelines.
 
-- 🚀 **Currently Architecting:** Full-stack enterprise applications using **ASP.NET Core, React.js / Next.js, PostgreSQL / MSSQL, and AWS/GCP/Cloudflare**.
-- 🤖 **AI & Agentic Systems:** LLM integration, autonomous agents, RAG workflows, and vector search embeddings.
-- 🧠 **Architecture & Optimization:** Complex relational schema design, EF Core query tuning, caching strategies with Redis, and microservices.
-- 💬 **Ask Me About:** ASP.NET Core, Next.js / TanStack Start architecture, database keyset pagination, and engineering team leadership.
-- 📝 **Writing & Insights:** I write in-depth technical guides on backend engineering, system design, and modern web frameworks on my **[Blog](https://ianmacharia.dev/blog)**.
-
 ---
 
 ### ✍️ Featured Articles & Deep Dives
@@ -70,31 +64,10 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
       <a href="https://ianmacharia.dev/blog/cloudflare-developer-ecosystem-guide"><b>Read Article →</b></a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://ianmacharia.dev/blog/postgre-sql-is-no-longer-just-a-database" target="_blank">
-        <img src="https://www.ianmacharia.dev/assets/blog/postgre-sql-is-no-longer-just-a-database.png" width="100%" alt="PostgreSQL Is No Longer Just a Database" />
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/Category-Database-316192?style=flat-square" alt="Database" />
-      <img src="https://img.shields.io/badge/Read%20Time-14%20min-lightgrey?style=flat-square" alt="14 min" />
-      <h4><a href="https://ianmacharia.dev/blog/postgre-sql-is-no-longer-just-a-database">PostgreSQL Is No Longer Just a Database</a></h4>
-      <p><i>How PostgreSQL evolved into the backbone of modern architectures—JSON document stores, full-text search, and AI vector embeddings.</i></p>
-      <a href="https://ianmacharia.dev/blog/postgre-sql-is-no-longer-just-a-database"><b>Read Article →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://ianmacharia.dev/blog/ef-core-performance-mistakes-that-quietly-destroy-production-apis" target="_blank">
-        <img src="https://www.ianmacharia.dev/assets/blog/ef-core-performance-mistakes-that-quietly-destroy-production-apis.png" width="100%" alt="EF Core Performance Mistakes" />
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/Category-Backend-blue?style=flat-square" alt="Backend" />
-      <img src="https://img.shields.io/badge/Read%20Time-15%20min-lightgrey?style=flat-square" alt="15 min" />
-      <h4><a href="https://ianmacharia.dev/blog/ef-core-performance-mistakes-that-quietly-destroy-production-apis">EF Core Mistakes That Quietly Destroy Production APIs</a></h4>
-      <p><i>Under-the-hood analysis of LINQ translation, entity tracking overhead, N+1 query traps, Cartesian joins, and memory leaks.</i></p>
-      <a href="https://ianmacharia.dev/blog/ef-core-performance-mistakes-that-quietly-destroy-production-apis"><b>Read Article →</b></a>
-    </td>
-  </tr>
 </table>
+<p align="right">
+  <a href="https://ianmacharia.dev/blog"><b>Read more articles on my blog →</b></a>
+</p>
 
 ---
 
@@ -170,12 +143,28 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
 
 ---
 
-### 📜 Certifications & Education
+### 📜 Certifications & DevCard
 
-- ☁️ **[Google Cloud Core Services](https://www.linkedin.com/learning/certificates/a5ec255abff63272ff53f69aec9d976547bea0b362043d61bd01d34b2b314c32/)** — LinkedIn Learning *(Issued May 2024)*
-- ☁️ **[Ultimate AWS Certified Cloud Practitioner (CLF-C02)](https://drive.google.com/file/d/16Yos5hJQxxcT-BcEyJGRNuGXA3fwzic8/view)** — Udemy *(Issued Oct 2023)*
-- 💻 **[Software Development Training Program](https://drive.google.com/file/d/1tsU6WrvlA5alxjkGreXKiYyLliLPZ0qI/view)** — The Jitu *(Issued Oct 2022)*
-- 🎓 **Bachelor of Science in Computer Science** — Kirinyaga University *(Aug 2018 – Oct 2022)*
+<table width="100%">
+  <tr>
+    <td width="60%" valign="middle">
+      <ul>
+        <li>☁️ <b><a href="https://www.linkedin.com/learning/certificates/a5ec255abff63272ff53f69aec9d976547bea0b362043d61bd01d34b2b314c32/">Google Cloud Core Services</a></b><br/><sub>LinkedIn Learning &bull; Issued May 2024</sub></li>
+        <br/>
+        <li>☁️ <b><a href="https://drive.google.com/file/d/16Yos5hJQxxcT-BcEyJGRNuGXA3fwzic8/view">AWS Certified Cloud Practitioner (CLF-C02)</a></b><br/><sub>Udemy &bull; Issued Oct 2023</sub></li>
+        <br/>
+        <li>💻 <b><a href="https://drive.google.com/file/d/1tsU6WrvlA5alxjkGreXKiYyLliLPZ0qI/view">Software Development Training Program</a></b><br/><sub>The Jitu &bull; Issued Oct 2022</sub></li>
+        <br/>
+        <li>🎓 <b>Bachelor of Science in Computer Science</b><br/><sub>Kirinyaga University &bull; Aug 2018 – Oct 2022</sub></li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://app.daily.dev/karianmash" target="_blank" rel="noopener noreferrer">
+        <img src="devcard.svg" width="300" alt="Ian Macharia's Dev Card" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -207,12 +196,6 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
 <p align="center">
   <a href="https://github.com/karianmash">
     <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Ian Macharia's 3D Contribution Calendar" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://app.daily.dev/karianmash" target="_blank" rel="noopener noreferrer">
-    <img src="devcard.svg" width="400" alt="Ian Macharia's Dev Card" />
   </a>
 </p>
 
