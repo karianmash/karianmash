@@ -204,13 +204,21 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
     <td width="50%" align="left">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" width="100%" alt="Top Languages" />
     </td>
-    <td width="50%"></td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karianmash&theme=github_dark" width="100%" alt="Productive Time" />
+    </td>
   </tr>
 </table>
 
 ---
 
 ### 📈 Activity & Community
+
+<p align="center">
+  <a href="https://github.com/karianmash">
+    <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Ian Macharia's 3D Contribution Calendar" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://app.daily.dev/karianmash" target="_blank" rel="noopener noreferrer">
