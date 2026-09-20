@@ -197,12 +197,12 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
       <img src="https://streak-stats.demolab.com/?user=karianmash&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karianmash&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&title_color=58a6ff&icon_color=58a6ff" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karianmash&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&include_all_commits=true&show_icons=true" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=58a6ff" width="60%" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" width="60%" alt="Top Languages" />
     </td>
   </tr>
 </table>
