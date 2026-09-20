@@ -45,19 +45,56 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
 
 ### ✍️ Featured Articles & Deep Dives
 
-Here are some of my recent in-depth technical publications from **[ianmacharia.dev/blog](https://ianmacharia.dev/blog)**:
-
-- 🗄️ **[Everyday Microsoft SQL Server Patterns for Backend Engineers](https://ianmacharia.dev/blog/everyday-mssql-patterns-for-backend-engineers)**  
-  *A practical, code-heavy developer's guide covering safe upserts without MERGE, chunked batch deletes, keyset pagination, timezone handling, and covering indexes.*
-
-- ⚛️ **[TanStack Start Core Features Decoded for Next.js Developers](https://ianmacharia.dev/blog/tanstack-start-core-features-decoded-for-nextjs-developers)**  
-  *An architectural deep dive into Vite, Nitro server functions, full-stack type safety, and TanStack Router decoded for Next.js engineers.*
-
-- ☁️ **[Mastering the Cloudflare Wrangler CLI for Full-Stack Edge Engineering](https://ianmacharia.dev/blog/mastering-cloudflare-wrangler-cli)**  
-  *Production guide to modern wrangler configurations, Cloudflare Workers, D1 database migrations, and CI/CD deployment automation.*
-
-- 🚀 **[The Tech Lead's Guide to Developer Experience (DevEx)](https://ianmacharia.dev/blog)**  
-  *Why engineering leadership isn't just about writing code—it's about removing friction, automated pipelines, and Architecture Decision Records (ADRs).*
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ianmacharia.dev/blog/everyday-mssql-patterns-for-backend-engineers" target="_blank">
+        <img src="https://www.ianmacharia.dev/assets/blog/everyday-mssql-patterns-for-backend-engineers.png" width="100%" alt="Everyday MSSQL Patterns" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Category-Backend-blue?style=flat-square" alt="Backend" />
+      <img src="https://img.shields.io/badge/Read%20Time-17%20min-lightgrey?style=flat-square" alt="17 min" />
+      <h4><a href="https://ianmacharia.dev/blog/everyday-mssql-patterns-for-backend-engineers">Everyday Microsoft SQL Server Patterns for Backend Engineers</a></h4>
+      <p><i>Safe upserts without MERGE, chunked batch deletes, keyset pagination, timezone conversions, and indexing patterns.</i></p>
+      <a href="https://ianmacharia.dev/blog/everyday-mssql-patterns-for-backend-engineers"><b>Read Article →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ianmacharia.dev/blog/cloudflare-developer-ecosystem-guide" target="_blank">
+        <img src="https://www.ianmacharia.dev/assets/blog/cloudflare-developer-ecosystem-guide.png" width="100%" alt="Cloudflare Developer Ecosystem Guide" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Category-Fullstack-purple?style=flat-square" alt="Fullstack" />
+      <img src="https://img.shields.io/badge/Read%20Time-16%20min-lightgrey?style=flat-square" alt="16 min" />
+      <h4><a href="https://ianmacharia.dev/blog/cloudflare-developer-ecosystem-guide">The Cloudflare Developer Ecosystem: Full-Stack Edge Systems</a></h4>
+      <p><i>Architect's guide to building resilient edge systems using Workers, Pages, Durable Objects, D1, Hyperdrive, R2, and Workers AI.</i></p>
+      <a href="https://ianmacharia.dev/blog/cloudflare-developer-ecosystem-guide"><b>Read Article →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ianmacharia.dev/blog/postgre-sql-is-no-longer-just-a-database" target="_blank">
+        <img src="https://www.ianmacharia.dev/assets/blog/postgre-sql-is-no-longer-just-a-database.png" width="100%" alt="PostgreSQL Is No Longer Just a Database" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Category-Database-316192?style=flat-square" alt="Database" />
+      <img src="https://img.shields.io/badge/Read%20Time-14%20min-lightgrey?style=flat-square" alt="14 min" />
+      <h4><a href="https://ianmacharia.dev/blog/postgre-sql-is-no-longer-just-a-database">PostgreSQL Is No Longer Just a Database</a></h4>
+      <p><i>How PostgreSQL evolved into the backbone of modern architectures—JSON document stores, full-text search, and AI vector embeddings.</i></p>
+      <a href="https://ianmacharia.dev/blog/postgre-sql-is-no-longer-just-a-database"><b>Read Article →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ianmacharia.dev/blog/ef-core-performance-mistakes-that-quietly-destroy-production-apis" target="_blank">
+        <img src="https://www.ianmacharia.dev/assets/blog/ef-core-performance-mistakes-that-quietly-destroy-production-apis.png" width="100%" alt="EF Core Performance Mistakes" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Category-Backend-blue?style=flat-square" alt="Backend" />
+      <img src="https://img.shields.io/badge/Read%20Time-15%20min-lightgrey?style=flat-square" alt="15 min" />
+      <h4><a href="https://ianmacharia.dev/blog/ef-core-performance-mistakes-that-quietly-destroy-production-apis">EF Core Mistakes That Quietly Destroy Production APIs</a></h4>
+      <p><i>Under-the-hood analysis of LINQ translation, entity tracking overhead, N+1 query traps, Cartesian joins, and memory leaks.</i></p>
+      <a href="https://ianmacharia.dev/blog/ef-core-performance-mistakes-that-quietly-destroy-production-apis"><b>Read Article →</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
