@@ -179,6 +179,7 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karianmash&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&include_all_commits=true&show_icons=true" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
+  <!--
   <tr>
     <td width="50%" align="left">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karianmash&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" width="100%" alt="Top Languages" />
@@ -187,6 +188,7 @@ Beyond traditional full-stack engineering, I am deeply focused on the intersecti
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karianmash&theme=github_dark" width="100%" alt="Productive Time" />
     </td>
   </tr>
+  -->
 </table>
 
 ---
